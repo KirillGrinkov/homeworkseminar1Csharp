@@ -1,0 +1,5 @@
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/ex1/obj/Debug/net7.0/ex1.csproj.AssemblyReference.cache
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/ex1/obj/Debug/net7.0/ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/ex1/obj/Debug/net7.0/ex1.AssemblyInfoInputs.cache
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/ex1/obj/Debug/net7.0/ex1.AssemblyInfo.cs
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/ex1/obj/Debug/net7.0/ex1.csproj.CoreCompileInputs.cache
