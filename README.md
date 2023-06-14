@@ -1,1 +1,0 @@
-# homeworkseminar1Csharp
