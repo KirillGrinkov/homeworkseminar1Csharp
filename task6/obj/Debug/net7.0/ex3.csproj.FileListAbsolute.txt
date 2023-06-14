@@ -1,0 +1,15 @@
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/obj/Debug/net7.0/ex3.csproj.AssemblyReference.cache
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/obj/Debug/net7.0/ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/obj/Debug/net7.0/ex3.AssemblyInfoInputs.cache
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/obj/Debug/net7.0/ex3.AssemblyInfo.cs
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/obj/Debug/net7.0/ex3.csproj.CoreCompileInputs.cache
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/bin/Debug/net7.0/ex3
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/bin/Debug/net7.0/ex3.deps.json
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/bin/Debug/net7.0/ex3.runtimeconfig.json
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/bin/Debug/net7.0/ex3.dll
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/bin/Debug/net7.0/ex3.pdb
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/obj/Debug/net7.0/ex3.dll
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/obj/Debug/net7.0/refint/ex3.dll
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/obj/Debug/net7.0/ex3.pdb
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/obj/Debug/net7.0/ex3.genruntimeconfig.cache
+/Users/prosto/Desktop/GitFiles/C#/C#HomeWorkSeminar1/task6/obj/Debug/net7.0/ref/ex3.dll

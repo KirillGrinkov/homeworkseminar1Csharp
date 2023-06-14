@@ -14,15 +14,15 @@ if (a < b)
 {
     maxNumber = b;
     minNumber = a;
+    Console.WriteLine($"{maxNumber} больше чем {minNumber}");
 }
 else if (a > b) 
 {
     maxNumber = a;
     minNumber = b;
+    Console.WriteLine($"{maxNumber} больше чем {minNumber}");
 }
 else 
 {
     Console.WriteLine("Эти числа равны");
 }
-
-Console.WriteLine($"{maxNumber} больше чем {minNumber}");
